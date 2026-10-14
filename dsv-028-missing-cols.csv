@@ -1,0 +1,6 @@
+id,name,email,department,salary
+1,Alice,alice@example.com,Engineering,75000
+2,Bob,bob@example.com
+3,Charlie,charlie@example.com,Marketing,68000,bonus_column_extra,another_extra
+4,,
+5,Eve,eve@example.com,HR,72000
